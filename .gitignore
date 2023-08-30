@@ -73,3 +73,8 @@ crashlytics-build.properties
 .vscode/settings.json
 Assets/Fonts/MPLUSRounded1c-Regular SDF.asset
 Assets/Fonts/MPLUSRounded1c-Regular SDF.asset.meta
+*.mp3
+Assets/AudioFiles/カンッ.mp3.meta
+Assets/AudioFiles/ころん.mp3.meta
+*.wav
+Assets/AudioFiles/でゅいーん.wav.meta
