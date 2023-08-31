@@ -10,10 +10,4 @@ public class TestScript : MonoBehaviour
         string[] files = FileLoader.LoadAudioFiles("AudioFiles");
         FileLoader.ShowAllFilesName(files);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

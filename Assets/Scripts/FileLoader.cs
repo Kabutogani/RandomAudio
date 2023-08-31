@@ -31,4 +31,8 @@ public static class FileLoader
             Debug.Log(str[i]);
         }
     }
+
+    public static string ShowFileName(string name){
+        return Path.GetFileNameWithoutExtension(name);
+    }
 }
